@@ -1,11 +1,3 @@
-/*
- * proxy_parse.h -- a HTTP Request Parsing Library.
- *
- * Written by: Matvey Arye
- * For: COS 518 
- * 
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
